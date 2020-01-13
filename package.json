@@ -1,0 +1,21 @@
+{
+  "name": "sku-scripts-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sku": "./bin/index.js"
+  },
+  "author": "Corey Jenkins",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "commander": "^4.1.0",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.3"
+  }
+}
