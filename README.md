@@ -4,7 +4,7 @@ Istallation:
 After installing dependencies, in root dir run 'npm install -g ./' (may have to run as sudo)
 
 Examples:
-Once installed, run 'sku test' or 'sku -tst' from any variable and the terminal will run the script assocaited with that CLI command.
+Once installed, run 'sku test' or 'sku -tst' from any directory and the terminal will run the script assocaited with that CLI command. This may just be a function or it may ask questions and require input
 
 Help:
 By default, commander auto generates a --help option based off the names/descriptions, etc. run 'sku help'
